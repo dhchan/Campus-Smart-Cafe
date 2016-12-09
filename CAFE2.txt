@@ -1,0 +1,12 @@
+TEST_CAFE
+Pizza/10/2.5/500/
+dairy/wheat/
+Coffee/20/1.5/100/
+no_allergens/
+Salad/20/5.5/90/
+fish/
+Sandwich/19/4.0/340/
+dairy/fish/wheat/
+Sushi/15/7.0/800/
+fish/
+**end**

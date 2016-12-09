@@ -1,0 +1,51 @@
+**CARD**
+ID Number: 7890
+Password: abc789
+**end**
+**DIETARYPROFILE**
+calorieLimit: 2000
+caloriesConsumedToday: 490
+caloriesConsumedMonthly: 
+1250
+1300
+800
+1100
+2200
+1800
+2100
+1100
+1700
+700
+2600
+2100
+1780
+**end**
+**ALLERGYLIST**
+dairy: true
+eggs: true
+fish: true
+peanuts: false
+shellFish: false
+soy: false
+treeNuts: false
+wheat: false
+**end**
+**EXPENSEPROFILE**
+totalFunds: 151.0
+fundsSpentToday: 11.5
+fundsSpentMonthly: 
+10.0
+19.7
+30.0
+22.0
+18.0
+22.5
+25.0
+12.5
+24.0
+22.0
+13.5
+30.0
+13.0
+**end**
+
